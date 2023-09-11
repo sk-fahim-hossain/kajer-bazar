@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Software Developer",
+    "jobs_available": 142
+  },
+  {
+    "category": "Registered Nurse",
+    "jobs_available": 258
+  },
+  {
+    "category": "Financial Analyst",
+    "jobs_available": 76
+  },
+  {
+    "category": "Marketing Manager",
+    "jobs_available": 39
+  },
+  {
+    "category": "Electrician",
+    "jobs_available": 98
+  },
+  {
+    "category": "Data Scientist",
+    "jobs_available": 18
+  },
+  {
+    "category": "Mechanical Engineer",
+    "jobs_available": 53
+  },
+  {
+    "category": "Elementary School Teacher",
+    "jobs_available": 112
+  },
+  {
+    "category": "Customer Service Representative",
+    "jobs_available": 206
+  },
+  {
+    "category": "Sales Representative",
+    "jobs_available": 367
+  }
+]

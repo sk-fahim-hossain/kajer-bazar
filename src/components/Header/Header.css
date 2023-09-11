@@ -1,0 +1,15 @@
+.nav-link {
+    background: var(--linear, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: flex;
+    gap: 42px;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+header{
+    padding: 50px 0px;
+}

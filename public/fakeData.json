@@ -1,0 +1,182 @@
+[
+  {
+      "companyName": "TechCo Inc.",
+      "id": "1",
+      "companyLogo": "https://jenchapmancreative.com/wp-content/uploads/2020/12/phoenix-logo-design-canyon.jpg",
+      "jobTitle": "Software Engineer",
+      "remoteOrOnsite": "Remote",
+      "location": "Anywhere",
+      "employmentType": "Full-Time",
+      "salary": "$80,000 - $100,000",
+      "jobDescription": "We are looking for a skilled software engineer to join our dynamic team.",
+      "jobResponsibility": "Develop and maintain high-quality software applications.",
+      "educationRequirement": "Bachelor's degree in Computer Science or related field",
+      "experience": "2+ years of software development experience",
+      "contact": {
+          "phone": "+1 (555) 123-4567",
+          "email": "hr@techco.com"
+      }
+  },
+  {
+      "companyName": "Data Solutions Ltd.",
+      "id": "2",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ford-Motor-Company-Logo.png",
+      "jobTitle": "Data Analyst",
+      "remoteOrOnsite": "Onsite",
+      "location": "New York, NY",
+      "employmentType": "Contract",
+      "salary": "$60,000 - $70,000",
+      "jobDescription": "Join our data analytics team and help us make data-driven decisions.",
+      "jobResponsibility": "Analyze and interpret data, generate reports, and provide insights.",
+      "educationRequirement": "Bachelor's degree in Statistics or related field",
+      "experience": "1-2 years of data analysis experience",
+      "contact": {
+          "phone": "+1 (555) 987-6543",
+          "email": "jobs@datasolutions.com"
+      }
+  },
+  {
+      "companyName": "EcoTech Innovations",
+      "id": "3",
+      "companyLogo": "https://logoarena-storage.s3.amazonaws.com/contests/public/4543/8016_1400505170_evergreen2.png",
+      "jobTitle": "Environmental Scientist",
+      "remoteOrOnsite": "Onsite",
+      "location": "San Francisco, CA",
+      "employmentType": "Full-Time",
+      "salary": "$70,000 - $90,000",
+      "jobDescription": "Contribute to our mission of environmental sustainability.",
+      "jobResponsibility": "Conduct environmental research, collect and analyze data.",
+      "educationRequirement": "Master's degree in Environmental Science",
+      "experience": "3+ years of environmental research experience",
+      "contact": {
+          "phone": "+1 (555) 555-5555",
+          "email": "careers@ecotechinnovations.com"
+      }
+  },
+  {
+      "companyName": "HealthTech Solutions",
+      "id": "4",
+      "companyLogo": "https://png.pngtree.com/template/20191014/ourmid/pngtree-building-and-construction-vector-illustration-element-logo-design-template-image_317810.jpg",
+      "jobTitle": "Registered Nurse",
+      "remoteOrOnsite": "Onsite",
+      "location": "Chicago, IL",
+      "employmentType": "Full-Time",
+      "salary": "$55,000 - $70,000",
+      "jobDescription": "Provide compassionate nursing care to patients.",
+      "jobResponsibility": "Administer medications, assess patient conditions, and maintain records.",
+      "educationRequirement": "Bachelor of Science in Nursing (BSN)",
+      "experience": "2+ years of nursing experience",
+      "contact": {
+          "phone": "+1 (555) 123-7890",
+          "email": "recruitment@healthtechsolutions.com"
+      }
+  },
+  {
+      "companyName": "FinCorp Financial Services",
+      "id": "5",
+      "companyLogo": "https://www.logodesign.net/assets/images/new-ui/home-logo-gallery-03.png",
+      "jobTitle": "Financial Analyst",
+      "remoteOrOnsite": "Remote",
+      "location": "Anywhere",
+      "employmentType": "Full-Time",
+      "salary": "$75,000 - $90,000",
+      "jobDescription": "Join our finance team and help us make informed financial decisions.",
+      "jobResponsibility": "Analyze financial data, create reports, and provide recommendations.",
+      "educationRequirement": "Bachelor's degree in Finance or related field",
+      "experience": "3+ years of financial analysis experience",
+      "contact": {
+          "phone": "+1 (555) 987-1234",
+          "email": "hr@fincorpservices.com"
+      }
+  },
+  {
+      "companyName": "GreenTech Innovations",
+      "id": "6",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkmDnE2oXT5xaeVJiamF6QcqzVSZOE9kWF-bE2hDChQfwwGeXGeHEeTLtvblTPADNJEg&usqp=CAU",
+      "jobTitle": "Sustainability Specialist",
+      "remoteOrOnsite": "Remote",
+      "location": "Anywhere",
+      "employmentType": "Contract",
+      "salary": "$65,000 - $80,000",
+      "jobDescription": "Work towards a sustainable future with our innovative team.",
+      "jobResponsibility": "Develop and implement sustainability initiatives.",
+      "educationRequirement": "Bachelor's degree in Environmental Science or related field",
+      "experience": "2-3 years of sustainability experience",
+      "contact": {
+          "phone": "+1 (555) 555-6789",
+          "email": "jobs@greentechinnovations.com"
+      }
+  },
+  {
+      "companyName": "TechWare Solutions",
+      "id": "7",
+      "companyLogo": "https://www.logo-design-india.com/wp-content/uploads/2022/02/1-1-1.jpg",
+      "jobTitle": "IT Support Specialist",
+      "remoteOrOnsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "employmentType": "Full-Time",
+      "salary": "$50,000 - $60,000",
+      "jobDescription": "Provide technical support to our clients and maintain IT systems.",
+      "jobResponsibility": "Troubleshoot hardware and software issues, assist users.",
+      "educationRequirement": "Associate's degree in IT or related field",
+      "experience": "1-2 years of IT support experience",
+      "contact": {
+          "phone": "+1 (555) 987-5678",
+          "email": "hr@techwaresolutions.com"
+      }
+  },
+  {
+      "companyName": "MarketingPro Agency",
+      "id": "8",
+      "companyLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA+VBMVEX///8aGhoAAADlABLjAAD0o6cYGBipqanlAA0UFBTwh4zY2NiOjo7u7u6JiYkRERH96ev5ycz1rbHlEBuzs7P84uTm5uaAgIBUVFR2dnb+7e7rWmDlAAjoKzT/+vvNzc1iYmLmHCToNz0+Pj709PQlJSWUlJRKSkqdnZ3S0tJra2u+vr4zMzNRUVH2ubxcXFywsLAtLS0Ar/7k9v+I0/9qyv7u+f+46P/qT1XymZ361tjpRkz1qa7vgYWtxdG+y9Fxz/8+wf+c3P9Cvf6y4//U8P/L7P+A0/+k3//udHnuZGz5ztDqr7Llt7nZv8HDt7hTZWQwPj0RHx9qK5+pAAAJSElEQVR4nO2cC3eaSBTHx5GAikBiFMQ0QgqiggZtXk2adPNuk27b3f3+H2bv8BLQPHbTasi5v5N6mAee+Xtn7p1hhhKCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIMhCVKMpyK7ft0ajkdX3XVnwDGnVjfo12GrTcUc0QFGqIYoSZoxcx1PtVTfx/yOJE23MM2XV0mKqTGmprU3E4tlT9eR2j4njHxA3g2cye77sqatu9PORzOnzxOWsOTWLYsohrSYNf1ocH3divkrFVTf9mXg06nyK5dKHxmCMorhWbHFqrLrpz6QJCqtT0zHATxo9+qhAOhqCv/Ucswc/BfVW3fRnItAS34v9htQOAsP8oOSDfDMOFirPl2hzVU3+jwxoqTqahbmmIAiTXl4iP51A/kySDTWosIrm/g/qoNDKBnKRzpONDvaoWqKDZTbzBcigsJ/Nsg3j8xD+/vg8/PzH8LMxhFT2NwgUOkts5UvQaEnp5zP3D8j+BTk/JwdfyMUl+8tiW6CwvqQWvpRFCvc+HJIPt+Tqmny9INdXQTpD4RSOc3kX1+TmAzkEXXtXoPWGXB5kKxROYc6Gt1fQTy9BHVxf7bFLcnWTqVEohQs8DagiYLujc7g+uA2U3lxlahTK0zhz0eIabHYD3fLyGhJfIXEAivev01XsaYGiBYv407TCwwv42L8l5ByEkZsvhBwxV3qRvkkqUsSfwKytlF4IXYI4chD9m13dpiOGpBRoXsrWFjSlcA+MRm5AzuF5kGafl8yaX1IRQ6UFWlsMWWNTc7JACJO0F468r+zyK1wc7s8qieymoqwPxaw5bo7YJ7PjURggbm6jNLneS2oxwytFeZChwjCkkyQZjLYbJi52nkzy7V5SFhAsuYryFCMb2m6DwXaUfGQSe7dxNRZEraU18aWMlZLiRteHUc+MPzbiRKgtUWjCPf4S2/gydGVmj3CkHSaf99+i1OFhqpyQKfRsbZmNfBECczVRyM8tIQhXa+2m01G5xG4pykOMKFzMx7Zuh5BjUHi84BavSMECXA3lF80xG9/IGsc1OrsLbqmDK1V+f8t+GbASyq8ugMZug6twG6Tbnb9jtPCO10ud9bm53E73E1fmvpH1j3NFNruhKCsLhkEXTKPPWuTTuzK3Sza4uZHYLNYwBGAgJhExADpmbZvcgQ23uh+59/n6vgLzoOU17xegg+OopuZg3VPS2dkhDa5cfrfDcfluKimFioaMoJum1rMbNbLFbZIWKCxXytxa42S9m+qqgyItnULYM4n006iN7XXooO+3K2UG17rbeE/uZy6V+d7iTEpDnJxVOt/AfJVQYJnrkhNu9yRR6BXNkzJUGFlKO06dNMIOGsHVTj5xqbjfBz/DF2XllKCnjXj3MaOwzAG75CwyYmDCYvkZBlvoV0fhdWeTO4ZgX5kBIrc6sRl71RJPi7K8TxEYMVwHt5jNuMrmzs42Y2dnsxLk1ILSejFNGK6HogdSrfvjP79///HzZzPk548f37//Wbs/ZYViUK+Q54ZYkAsihipof/39T25/9J+//9ImEtuvUErFeRSco68E3U9cfCwqOEIjBp15bqeqKIjsfAIVrIcP1Sh9ZuhCupkQIRhij52oUYIaxXl6MYf++GGa6EhNEf1oQv9pibT99Ne8YuzeUyfblFEhA8UMafq4RFp0gRAMrcc6KrUKN+GeR3pkLNJx4S0YYD4kkbpP31wMnIUxsVq4Re8jGNN5M7KTpW8IW8+ZsUq1tzEEZ3ijtBmpVawna89jEJ8U5ulbGoFpbI1pBH3yW+ugM1S5REvyGwjyjyAJb1sfgiAIErC+lmWXkO7a6enpCSGtbEmjxep3c/XXOhAyBkKaZvwwUfWEuqbrrq7JjuCxsGIIeX5/sNngsnyKtiWO54u4O/aL5DNPFrwjFKwTjWn8unD0mrBpE33uXaLfvyDZSO+SlctsS34dsri1uaIyO3dB1jcr2bxWtFWRWUk12bZx/okOrbMXG3J5v//ARiAja8OMwqSAXd9FCudsyNqaUCopZpRZTWWyzbnIhmzGrizThtxZI2E3qzApumOJrVAhd9ea0Y0OEQtqRD08WcqO1CjWxBiKomh4gyrbESDGhO1VCT0efoRg22qyjHEY9r4UGYVJ0U5lpvAs+x1i5iCiF75iE5zHmFlISx0WD95NXNr7NIGM004CySnciCsyhVEvrWxvJRxHCqtWO6IUHvOTsyf8J6lTUsG7GPIyFbLd3IjNk5zC+1rIFks0onFYyfrXcMgpEXwwDJnR0m9peCmTLl9hakeeO3nY04TRIvCls/qJQiX2KVVQZrw6he9i5hTOqGw2IoWVcP8+2MOvRQoV16mHWOygwmvrpdvvY7Zbj0WLtcjT1LLfIWaOLhrhuZR69niinPI0y1cI46sbQ3LjsLYbko0W6wuihRRFCyfUG2z7tz1RhCxxOCnxs/MLK1D43GjxMfY0qYEbz2l4Pvq/XILwb4T/E0MyOFmQ53vkVSvcTiksL1AIEkOC54vs1a78o/9kc3jZCoFGJisz857ZMJ7S5WgtejufhX9Piebd8dS7H/sdiU3mlqawdVarnZ1ksjp3Z2dnG/miYwiKYNhOLctZhz1UrKdxouWT1KzD0skEYP1Ub868jg1uVy7Ku4kIslwGbd8fyvDZFge+64Jf8Hx3LGkGmQiDsW+qbrstq32/PVDHrulBoW8LMMjUsW32+67ttm2PrRhk09Slvij2Vd30B2q/3daMtmuKel8S+47qu+1VbVTprjDxXE33xp48lusQnh2r3lZ9gwzqmmxMPavpUWPkOW2Vypqo9WVf8n3ZVKk4kmxlaIFs9vyi52omaY5Knk01XSaS1ZSaI1lTLd/Rfd0ryeaqvIzuOwPP1Pp6z5PhEhQKutDzTEd0HW3ku+po7Msi1cGa1KmLA23Q8zR5QIdULBnwMVWtNlNoOg7EQ6bNH2g8IRZ0gpHjqFORWk13aArjpUWKHBOY+otC0yBNw9M0DXrpUNc1W9RdTWJlhJlVHRDJkaDYMHRdtj1dhxRxXH0AxZLOjl0OdEgQDwwF0QIioyOSIdyg1u2JIQoSfGeh3qZBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBkBfzL2sR5qkp6PgUAAAAAElFTkSuQmCC",
+      "jobTitle": "Digital Marketing Manager",
+      "remoteOrOnsite": "Remote",
+      "location": "Anywhere",
+      "employmentType": "Full-Time",
+      "salary": "$70,000 - $85,000",
+      "jobDescription": "Lead our digital marketing efforts and drive online success.",
+      "jobResponsibility": "Develop and execute digital marketing strategies.",
+      "educationRequirement": "Bachelor's degree in Marketing or related field",
+      "experience": "3+ years of digital marketing experience",
+      "contact": {
+          "phone": "+1 (555) 123-9876",
+          "email": "careers@marketingproagency.com"
+      }
+  },
+  {
+      "companyName": "MediCare Pharmaceuticals",
+      "id": "9",
+      "companyLogo": "https://images-platform.99static.com/w832BZQ2KuFl7e46uXeMkzWTeEQ=/100x100:900x900/500x500/top/smart/99designs-contests-attachments/95/95666/attachment_95666015",
+      "jobTitle": "Pharmacist",
+      "remoteOrOnsite": "Onsite",
+      "location": "Houston, TX",
+      "employmentType": "Full-Time",
+      "salary": "$90,000 - $110,000",
+      "jobDescription": "Dispense medications and provide pharmaceutical care.",
+      "jobResponsibility": "Review prescriptions, counsel patients, and manage inventory.",
+      "educationRequirement": "Doctor of Pharmacy (Pharm.D.) degree",
+      "experience": "2+ years of pharmacy experience",
+      "contact": {
+          "phone": "+1 (555) 555-7890",
+          "email": "pharmacyjobs@medicarepharma.com"
+      }
+  },
+  {
+      "companyName": "AeroTech Aerospace",
+      "id": "10",
+      "companyLogo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/logo-design-template-8ceb7aa58f11888249938037073c4f60_screen.jpg?ts=1606554716",
+      "jobTitle": "Aerospace Engineer",
+      "remoteOrOnsite": "Onsite",
+      "location": "Seattle, WA",
+      "employmentType": "Full-Time",
+      "salary": "$85,000 - $100,000",
+      "jobDescription": "Design and develop cutting-edge aerospace technologies.",
+      "jobResponsibility": "Contribute to the design, testing, and analysis of aerospace systems.",
+      "educationRequirement": "Bachelor's degree in Aerospace Engineering or related field",
+      "experience": "3+ years of aerospace engineering experience",
+      "contact": {
+          "phone": "+1 (555) 987-6543",
+          "email": "aerospacecareers@aerotech.com"
+      }
+  }
+]
