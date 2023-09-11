@@ -3,14 +3,7 @@ import CompanyCard from '../CompanyCard/CompanyCard';
 import singleLoader from '../Loaders/singleLoader';
 
 const FeaturedJobs = () => {
-    // const [jobs, setJobs] = useState([])
-    // const {jobs} = singleLoader()
-    // console.log(jobs)
-    useEffect(() => {
-        // const jobs = singleLoader()
-        // console.log(jobs.jobs)
-    }, [])
-    
+   
 
     
 
