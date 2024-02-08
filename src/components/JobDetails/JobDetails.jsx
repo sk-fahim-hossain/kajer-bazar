@@ -1,18 +1,23 @@
-import React, { useEffect, useState } from 'react';
-import { useLoaderData, useParams } from 'react-router-dom';
-
+import { useParams } from "react-router-dom";
+import useJobsHook from "./../../hooks/useJobsHook";
+import JobDetailUI from "../JobDetailUI/JobDetailUI";
 
 const JobDetails = () => {
-    const jobs = useLoaderData()
-    const { id } = useParams()
-     console.log(jobs)
+  const [jobs] = useJobsHook();
+  const { id } = useParams();
 
-    
-    return (
-        <div>
-            <h3>this is job details{id}</h3>
-        </div>
-    );
+  const searchedJob = jobs?.filter((item) => item.id == id);
+  const jobDetailInfo = searchedJob[0];
+
+  return (
+    <div>
+      {jobDetailInfo ? (
+        <JobDetailUI details={jobDetailInfo}></JobDetailUI>
+      ) : (
+        <p>Loading...</p>
+      )}
+    </div>
+  );
 };
 
 export default JobDetails;

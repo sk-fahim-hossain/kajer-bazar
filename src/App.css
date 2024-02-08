@@ -1,8 +1,9 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
+  /* max-width: 1280px; */
+
+  font-family: "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
-.gradient-btn{
-  @apply py-5 px-7 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg text-xl text-white inline-block w-fit
+.gradient-btn {
+  @apply py-3 px-7 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg text-xl text-white inline-block w-fit;
 }
