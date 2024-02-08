@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 const useJobsHook = () => {
   const [jobs, setJobs] = useState([]);
   useEffect(() => {
-    fetch("/public/fakeData.json")
+    fetch("fakeData.json")
       .then((res) => res.json())
       .then((data) => setJobs(data));
   }, []);

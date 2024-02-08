@@ -1,23 +1,23 @@
 import { useParams } from "react-router-dom";
 import useJobsHook from "./../../hooks/useJobsHook";
 import JobDetailUI from "../JobDetailUI/JobDetailUI";
+import { useEffect, useState } from "react";
 
 const JobDetails = () => {
-  const [jobs] = useJobsHook();
   const { id } = useParams();
+  const [jobs, setJobs] = useState([]);
+  useEffect(() => {
+    fetch("/fakeData.json")
+      .then((res) => res.json())
+      .then((data) => {
+        const searchedJob = data?.filter((item) => item.id == id);
+        const details = searchedJob[0];
+        setJobs(details);
+      });
+  }, []);
 
-  const searchedJob = jobs?.filter((item) => item.id == id);
-  const jobDetailInfo = searchedJob[0];
-
-  return (
-    <div>
-      {jobDetailInfo ? (
-        <JobDetailUI details={jobDetailInfo}></JobDetailUI>
-      ) : (
-        <p>Loading...</p>
-      )}
-    </div>
-  );
+  console.log(jobs);
+  return <div>{jobs && <JobDetailUI details={jobs}></JobDetailUI>}</div>;
 };
 
 export default JobDetails;

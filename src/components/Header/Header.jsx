@@ -11,7 +11,7 @@ const Header = () => {
 
         <nav className="nav-link sm:my-4">
           <li>
-            <Link to="/statistic">Statistics</Link>
+            <Link to="/statistics">Statistics</Link>
           </li>
           <li>
             <Link to="/appliedjobs">Applied Jobs</Link>

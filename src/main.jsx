@@ -7,6 +7,7 @@ import Home from "./components/Home/Home.jsx";
 import JobDetails from "./components/JobDetails/JobDetails.jsx";
 
 import AppliedJobs from "./components/AppliedJobs/AppliedJobs";
+import ChartPage from "./components/Chart/ChartPage.jsx";
 
 const router = createBrowserRouter([
   {
@@ -22,7 +23,11 @@ const router = createBrowserRouter([
         element: <AppliedJobs></AppliedJobs>,
       },
       {
-        path: "jobs/:id",
+        path: "/statistics",
+        element: <ChartPage></ChartPage>,
+      },
+      {
+        path: "/jobs/:id",
         element: <JobDetails />,
       },
     ],
